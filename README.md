@@ -3,7 +3,7 @@
 <br>
 
 ## 😄 About me
-- :school: I am a `Junior` at Faculty of Computers Science & Informatics at Indonesian Computer University
+- :school: I am a `Student` at Faculty of Computers Science & Informatics at Indonesian Computer University
 - :trophy: `E-Wallet User Research Challenge at Indosat Ooredoo` Finalist 2021
 - :technologist: I love using Software as a solution for every `Problem`
 - :computer: I am a competitive programmer mainly at `Codeforces`
