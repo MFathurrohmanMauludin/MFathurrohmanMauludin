@@ -3,7 +3,7 @@
 
 ## 😄 About me
 - :school: I am a `Student` at Faculty of Computers Science & Informatics at Indonesian Computer University
-- :trophy: `E-Wallet User Research Challenge at Indosat Ooredoo` Finalist 2021
+- :trophy: `E-Wallet User Research Challenge at Indosat Ooredoo` Participant 2021
 - :technologist: I love using Software as a solution for every `Problem`
 - :computer: I am a competitive programmer mainly at `Codeforces`
 - :student: I’m currently learning: `Computer Science` and `Software Engineering`.
