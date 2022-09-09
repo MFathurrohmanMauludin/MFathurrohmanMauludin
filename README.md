@@ -21,7 +21,7 @@
 	<table border="0">
 		<tr>
 			<td><a href="https://github.com/anuraghazra/github-readme-stats"><img alt="M Fathurrohman Mauludin Github Stats" src="https://github-readme-stats.vercel.app/api?username=MFathurrohmanMauludin&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
-			<br/>&nbsp;</td>
+			</td>
 			<td>
 			<img src="https://github-readme-stats.vercel.app/api/top-langs?username=MFathurrohmanMauludin&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="MFathurrohmanMauludin" height="192px"/>
 			</td>
