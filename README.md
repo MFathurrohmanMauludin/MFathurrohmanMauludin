@@ -35,7 +35,9 @@
  
 <center>
   &emsp;
-    <a href="https://www.dicoding.com/users/fathurrohman97/academies"><img src=https://www.dicoding.com/blog/wp-content/uploads/2014/12/dicoding-header-logo.png" height="24"></a>	  
+    <a href="https://www.dicoding.com/users/fathurrohman97/academies"><img src="https://www.dicoding.com/blog/wp-content/uploads/2014/12/dicoding-header-logo.png" height="24"></a>	  
+  &emsp;
+    <a href="https://idcamp.ioh.co.id/"><img src="https://idcamp.ioh.co.id/images/indosat-x-idcamp-logo.png" height="36"></a>	  
   &emsp;
     <a href="#"><img src="https://img.shields.io/badge/Duolingo-%234DC730.svg?style=for-the-badge&logo=Duolingo&logoColor=white"></a>
   &emsp;
