@@ -33,7 +33,7 @@
 
  ## 🎓 Educations
  
-<center>
+<p align="center">
   &emsp;
     <a href="https://www.dicoding.com/users/fathurrohman97/academies"><img src="https://www.dicoding.com/blog/wp-content/uploads/2014/12/dicoding-header-logo.png" height="24"></a>	  
   &emsp;
@@ -50,7 +50,7 @@
     <a href="#"><img src="https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white"></a>	  
   &emsp;
     <a href="#"><img src="https://img.shields.io/badge/GeeksforGeeks-gray?style=for-the-badge&logo=geeksforgeeks&logoColor=35914c"></a>	  
-</center>
+</p>
 
 ## 🛠️ My Skills
 
