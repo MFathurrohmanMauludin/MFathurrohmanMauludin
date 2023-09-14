@@ -41,7 +41,7 @@
   &emsp;
     <a href="https://digitalent.kominfo.go.id/"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTubpKJxWIphv6FvZMwFqvZCYzn7cJCshgW_DTCwGaQwrCM6dVGyG0DIXOIuq9rlkTYCMo&usqp=CAU" height="36"></a>	  
   &emsp;
-    <a href="https://bdd.kemenparekraf.go.id/"><img src="https://bdd.kemenparekraf.go.id/images/logo-bdd.png" height="36"></a>	  
+    <a href="https://bdd.kemenparekraf.go.id/"><img src="https://bdd.kemenparekraf.go.id/images/logo-bdd.png" height="24"></a>	  
   &emsp;
     <a href="#"><img src="https://img.shields.io/badge/Duolingo-%234DC730.svg?style=for-the-badge&logo=Duolingo&logoColor=white"></a>
   &emsp;
