@@ -39,6 +39,8 @@
   &emsp;
     <a href="https://idcamp.ioh.co.id/"><img src="https://idcamp.ioh.co.id/images/indosat-x-idcamp-logo.png" height="36"></a>	  
   &emsp;
+    <a href="https://digitalent.kominfo.go.id/"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTubpKJxWIphv6FvZMwFqvZCYzn7cJCshgW_DTCwGaQwrCM6dVGyG0DIXOIuq9rlkTYCMo&usqp=CAU" height="36"></a>	  
+  &emsp;
     <a href="#"><img src="https://img.shields.io/badge/Duolingo-%234DC730.svg?style=for-the-badge&logo=Duolingo&logoColor=white"></a>
   &emsp;
     <a href="#"><img src="https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=gree"></a>
