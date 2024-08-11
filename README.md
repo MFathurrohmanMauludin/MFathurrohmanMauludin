@@ -1,5 +1,6 @@
 <h1 align="center">Hi There, Nice To Meet You 👍.</h1>
-<br>
+<br/>
+<div align="center"><q>Let's create a world full of happiness with comfortable, safe, and powerful software.</q></div>
 
 ## 🙂 About me
 - :school: I am a `Student` at the Faculty of Computers Science & Informatics at Indonesian Computer University
